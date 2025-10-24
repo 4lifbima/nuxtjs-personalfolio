@@ -1,9 +1,11 @@
 <template>
-  <div class="bg-white">
+  <div class="bg-white min-h-screen flex flex-col antialiased text-gray-800 font-sans">
     <Navbar />
-
-    <NuxtPage />
-
+    
+    <main class="flex-grow">
+      <NuxtPage />
+    </main>
+    
     <Footer />
   </div>
 </template>

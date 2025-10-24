@@ -1,5 +1,5 @@
 <template>
-  <section id="contact" class="py-24 bg-gray-50/50">
+  <section id="contact" class="section-padding bg-gray-50/50">
     <div class="container mx-auto px-4 sm:px-6 lg:px-8">
       <h2 class="section-title">Get In <span class="text-primary">Touch</span></h2>
       <p class="section-subtitle">
@@ -43,5 +43,8 @@
 }
 .form-input {
   @apply w-full px-4 py-3 rounded-lg border border-gray-300 bg-gray-50/50 focus:outline-none focus:ring-2 focus:ring-primary/50 focus:border-primary transition-all duration-300;
+}
+.btn-primary {
+  @apply px-8 py-3 rounded-lg bg-primary text-white font-semibold text-lg hover:bg-primary-light transition-all duration-300 shadow-lg shadow-primary/40 transform hover:-translate-y-1;
 }
 </style>
