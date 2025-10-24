@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "slug": "proyek-keren-satu",
+    "title": "Nama Proyek Keren Satu",
+    "thumbnail": "https://images.unsplash.com/photo-1547658719-da2b51169166?ixlib=rb-4.0.3&auto=format&fit=crop&w=1064&q=80",
+    "description": "Deskripsi singkat tentang proyek ini, tujuannya, dan teknologi yang digunakan.",
+    "long_description": "Ini adalah deskripsi yang lebih panjang. Proyek ini dibuat untuk klien X dengan tujuan untuk memodernisasi platform e-commerce mereka. Kami fokus pada UX yang bersih dan performa yang cepat menggunakan Nuxt 3. Tantangan utama adalah mengintegrasikan API pihak ketiga yang sudah ada, namun kami berhasil menyelesaikannya dengan baik.",
+    "technologies": ["Nuxt.js", "Tailwind CSS", "Supabase"],
+    "live_url": "#",
+    "repo_url": "#"
+  },
+  {
+    "id": 2,
+    "slug": "sistem-manajemen-konten",
+    "title": "Sistem Manajemen Konten",
+    "thumbnail": "https://images.unsplash.com/photo-1516116216624-53e697320f64?ixlib=rb-4.0.3&auto=format&fit=crop&w=1064&q=80",
+    "description": "Sebuah CMS kustom yang dibuat dengan Laravel dan Vue.js untuk manajemen blog internal perusahaan.",
+    "long_description": "Klien membutuhkan solusi CMS yang ringan dan aman. Kami membangunnya dari awal menggunakan Laravel sebagai backend API dan Vue.js sebagai frontend yang interaktif. Fitur termasuk manajemen pengguna, editor WYSIWYG, dan penjadwalan posting.",
+    "technologies": ["Laravel", "Vue.js", "MySQL", "Tailwind CSS"],
+    "live_url": "#",
+    "repo_url": "#"
+  },
+  {
+    "id": 3,
+    "slug": "website-himpunan-mahasiswa",
+    "title": "Web Himpunan Mahasiswa",
+    "thumbnail": "https://images.unsplash.com/photo-1559028012-481c04fa702d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1064&q=80",
+    "description": "Website profil organisasi kemahasiswaan dengan galeri kegiatan dan formulir pendaftaran.",
+    "long_description": "Website ini dirancang untuk menjadi pusat informasi bagi Himpunan Mahasiswa Matematika. Dibangun dengan Nuxt.js untuk SEO yang baik dan Tailwind CSS untuk desain yang responsif. Fitur utama adalah galeri foto yang dinamis dan sistem pendaftaran anggota baru.",
+    "technologies": ["Nuxt.js", "Tailwind CSS", "Figma"],
+    "live_url": "#",
+    "repo_url": "#"
+  }
+]
